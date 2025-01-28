@@ -49,13 +49,14 @@
 ###
 
 <div align="left">
-  <img src="https://www.linkedin.com/in/taha-amine-lassami-178535302//maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://www.linkedin.com/in/taha-amine-lassami-178535302/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"alt="linkedin logo"  />
 </div>
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+<p align="center">
+  <a href="https://stars.github.com/profiles/mr-rubber-duck/">
+    <img src="https://github.com/mr-rubber-duck/mr-rubber-duck/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2025"/></a>
+</p>
 
 ###
