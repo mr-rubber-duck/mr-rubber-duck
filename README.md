@@ -1,9 +1,17 @@
-<h1 align="left">Hey 👋 What's up ?</h1>
+
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+Hey 👋 What's up ;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 
 ###
 
-<p align="left">I am Taha Amine ,cyber security student and software developer,join me to create advance digital word!</p>
-
+<div align="center">
+    <h1>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+ Taha Amine Lassami;This+is..;..my+Github..;" alt="Typing SVG"/>
+    </h1>
+</div>
 ###
 
 <h2 align="left">About me</h2>
