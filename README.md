@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Taha Amine</h1>
+<h1 align="center">Hi 👋,I'm Taha Amine</h1>
 <h3 align="center">A Cyber security student and resarcher ,and developer ,involved in many project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-rubber-duck&label=Profile%20views&color=0e75b6&style=flat" alt="mr-rubber-duck" /> </p>
