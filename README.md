@@ -59,19 +59,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-rubber-duck&show_icons=true&theme=radical" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-rubber-duck&layout=compact&theme=radical" />
-</p>
-
----
-
-## 📈 Contributions & Commits
-<p align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/mr-rubber-duck?style=for-the-badge&logo=github" alt="Commit Activity"/>
-  <img src="https://img.shields.io/github/issues-pr/m/mr-rubber-duck?style=for-the-badge&logo=github" alt="Pull Requests"/>
-</p>
